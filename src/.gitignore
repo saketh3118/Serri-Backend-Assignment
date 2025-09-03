@@ -1,9 +1,0 @@
-# Environment Variables
-.env
-
-# node modules
-node_modules/
-
-# Log files
-*.log
-logs/
