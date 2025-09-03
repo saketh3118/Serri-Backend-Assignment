@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive `README.md` tailored for your [Serri-Backend-Assignment](https://github.com/saketh3118/Serri-Backend-Assignment) repository:
-
----
-
 # 🎬 Serri Backend Assignment
 
 A backend service that fetches and stores YouTube videos based on a predefined search query. It provides APIs to retrieve the stored videos in a paginated format and search for videos by title or description.
