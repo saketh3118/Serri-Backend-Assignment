@@ -89,7 +89,7 @@ To run the application using Docker:
    docker run -d -p 8000:8000 --name serri-backend serri-backend
    ```
 
-The application will be accessible at `http://localhost:5000`.
+The application will be accessible at `http://localhost:8000`.
 
 ---
 
